@@ -12,7 +12,7 @@ This is a **skill** for [Claude Code](https://claude.ai/code) that enhances Clau
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/first-principles-skill.git
+git clone https://github.com/tt-a1i/first-principles-skill.git
 
 # Copy to Claude Code skills directory
 cp -r first-principles-skill ~/.claude/plugins/superclaude/skills/first-principles
@@ -21,7 +21,7 @@ cp -r first-principles-skill ~/.claude/plugins/superclaude/skills/first-principl
 ### Option 2: Symlink
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/first-principles-skill.git ~/skills/first-principles-skill
+git clone https://github.com/tt-a1i/first-principles-skill.git ~/skills/first-principles-skill
 ln -s ~/skills/first-principles-skill ~/.claude/plugins/superclaude/skills/first-principles
 ```
 
